@@ -1,0 +1,15 @@
+  body {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+            background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-mathematics-education-green-border-background-picture-image_1176979.jpg');
+            background-size: cover;
+            background-position: center;
+            color: rgb(0, 0, 0);
+            text-align: center;
+        }
+
+      
