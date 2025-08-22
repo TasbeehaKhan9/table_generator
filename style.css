@@ -8,8 +8,15 @@
             background-image: url('https://png.pngtree.com/background/20210712/original/pngtree-mathematics-education-green-border-background-picture-image_1176979.jpg');
             background-size: cover;
             background-position: center;
-            color: rgb(0, 0, 0);
+            color: rgb(16, 5, 114);
             text-align: center;
+            font-size: xx-large;
+            
+        }
+
+        h2{
+          font-size: 70px;
+          text-decoration: underline;
         }
 
       
